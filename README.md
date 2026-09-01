@@ -1,0 +1,1 @@
+Oi, esse arquivo faz parte do mini curso!
